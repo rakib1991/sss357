@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+}
+.header{ 
+
+}
+.logo{
+    background-color: cyan;
+    width: 30%;
+    height: 100px;
+    float: left;
+    text-align: center;
+
+}
+.menu{
+    background-color: chocolate;  
+      width: 70%;
+    height: 100px;
+    float: left;
+    text-align: center;
+
+}
+
+.bar{
+    background-color: darkmagenta;
+    height: 70px;
+    width: 100%;
+    text-align: center;
+    float: left;
+}
+
+
+
+.content{
+   
+
+}
+
+.left{
+    background-color: darkorange;
+    width: 20%;
+    height: 600px;
+    float: left;
+
+}
+.center{
+    background-color: darksalmon;
+    width: 60%;
+    height: 600px;
+    float: left;
+
+}
+.right{
+    background-color: forestgreen;
+    width: 20%;
+    height: 600px;
+    float: left;
+
+}
+
+.top{
+height: 30%;
+background-color: rgb(53, 34, 139);
+}
+.middle{
+    height: 40%;
+    background-color: indianred;
+
+}
+.bottom{
+  height: 30%;
+    background-color: rgb(5, 117, 223);
+
+}
+.middle-left{
+    width: 50%;
+    background-color: maroon;
+    height: 100%;
+    float: left;
+
+}
+.middle-right{
+    width: 50%;
+    background-color: orangered;
+    height: 100%;
+    float: left;
+
+}
+
+
+.footer{
+    
+    background-color: rgb(83, 49, 5);
+    text-align: center;
+}
